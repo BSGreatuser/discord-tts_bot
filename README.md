@@ -1,2 +1,1 @@
-# discord-tts_bot
-TTS 음성채팅 봇
+[ffmpeg](https://ffmpeg.org/download.html#build-windows)
