@@ -1,1 +1,1 @@
-[ffmpeg](https://ffmpeg.org/download.html#build-windows)
+[ffmpeg](https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-essentials.7z)
