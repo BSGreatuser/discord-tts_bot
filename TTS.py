@@ -57,6 +57,8 @@ async def on_message(message):
                 info = await message.reply('재생실패')
                 await asyncio.sleep(3)
                 await info.delete()
+            else:
+                await message.reply(e)
 
         os.remove(filename)
 
